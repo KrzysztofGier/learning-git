@@ -2,3 +2,4 @@ neighbors = {'Germany': 'Berlin','Czech Republic':'Prague','Slovakia':'Bratislav
 for item in neighbors.items():
     print(item)
     print("Pozdrowienia od Krzyska")
+    print("Wesolych swiat")
